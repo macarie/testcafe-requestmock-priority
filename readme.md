@@ -12,5 +12,5 @@ $ yarn; yarn test
 
 $ cd ../testcafe@1.4
 
-& yarn; yarn test
+$ yarn; yarn test
 ```
